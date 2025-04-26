@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import Weather from './WeatherApp.jsx'
 
 import './App.css'
